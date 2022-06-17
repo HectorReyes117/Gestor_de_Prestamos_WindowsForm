@@ -19,7 +19,7 @@ namespace Proyecto_Final
             Grid();
         }
 
-        SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-R1E8E6O\\SQLEXPRESS;Initial Catalog=PruebasFinal1;Integrated Security=True");
+        SqlConnection conexion = new SqlConnection("Data Source=Nombre_de_su_servidor;Initial Catalog=PruebasFinal1;Integrated Security=True");
         SqlCommand comando;
 
         Clase_Clientes Datos = new Clase_Clientes();

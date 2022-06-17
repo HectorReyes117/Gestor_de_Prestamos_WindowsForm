@@ -11,7 +11,7 @@ namespace Proyecto_Final
 
     public partial class Clase_PrestamosBuscar_y_Leer:Clase_General
     {
-        SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-R1E8E6O\\SQLEXPRESS;Initial Catalog=PruebasFinal1;Integrated Security=True");
+        SqlConnection conexion = new SqlConnection("Data Source=Nombre_de_su_servidor;Initial Catalog=PruebasFinal1;Integrated Security=True");
         SqlCommand comando;
 
         private string BuscarDatos;

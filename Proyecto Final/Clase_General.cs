@@ -12,7 +12,7 @@ namespace Proyecto_Final
     public abstract partial class Clase_General
     {
 
-        SqlConnection conexion = new SqlConnection("Data Source=DESKTOP-R1E8E6O\\SQLEXPRESS;Initial Catalog=PruebasFinal1;Integrated Security=True");
+        SqlConnection conexion = new SqlConnection("Data Source=Nombre_de_su_servidor;Initial Catalog=PruebasFinal1;Integrated Security=True");
 
 
         //Metodos heredados a la Clase "Clase_Clientes2" y "Clase_PrestamosBuscar_y_Leer"
