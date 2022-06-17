@@ -1,0 +1,92 @@
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Guna.UI.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Design.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\EnvDTE.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\EnvDTE80.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\stdole.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Modulos.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormClientes.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPrestamos.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReporteClientesNombre.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesMovimientosId.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPrestamosFecha.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.SeleccionarPrestamos.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPagos.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormModuloConsultas.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesClientesCedula.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesClientesCorreo.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPrestamosCliente.resources
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.cache
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\RdlCompile.compiled
+C:\Users\ACER\source\repos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPagosRangos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.AssemblyReference.cache
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.SuggestedBindingRedirects.cache
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Modulos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormClientes.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPrestamos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReporteClientesNombre.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesClientesCedula.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesClientesCorreo.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesMovimientosId.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPagosRangos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPrestamosCliente.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.ReportesPrestamosFecha.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.SeleccionarPrestamos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormPagos.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.FormModuloConsultas.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto_Final.Properties.Resources.resources
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.GenerateResource.cache
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CoreCompileInputs.cache
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\msvcr100.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x64\SqlServerSpatial110.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\msvcr100.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\SqlServerTypes\x86\SqlServerSpatial110.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.Design.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\EnvDTE.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\EnvDTE80.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\stdole.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\bin\Debug\Microsoft.MSXML.dll
+D:\SOURCE\repos\Antiguos\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.csproj.CopyComplete
