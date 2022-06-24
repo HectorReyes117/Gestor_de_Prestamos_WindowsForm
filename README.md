@@ -1,11 +1,15 @@
 # Gestor_de_Prestamos_WindowsForm
 
+
 ### Tecnologias utilizadas
 ```
 C# Windows Form
 Sql Server
 Report Viewer
 ```
+### Video del Proyecto
+[Link del Video](https://youtu.be/q6CrOlm-iso).
+
 ### Destalles del Proyecto #
 ```
 Sistema de administracion de prestamos.
